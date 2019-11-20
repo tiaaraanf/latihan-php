@@ -1,4 +1,3 @@
 <?php
-echo"hello";
-echo"perubahan";
+echo"folder page";
 ?>
